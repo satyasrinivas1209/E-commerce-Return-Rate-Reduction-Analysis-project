@@ -39,8 +39,7 @@ A **detailed project report** (`Ecommerce_Sales_Project_Report.pdf`) is included
 - Higher discounts negatively impact profitability  
 
 
-## ✅ Conclusion  
+## Conclusion  
 This project demonstrates that **sales volume does not guarantee profitability**.  
 By optimizing discount policies, focusing on profitable categories, and targeting key customer segments, businesses can significantly improve margins.  
 
-👉 For detailed methodology, visualizations, and findings, please refer to the **[Project Report PDF](./Ecommerce_Sales_Project_Report.pdf)** included in this repository.  
