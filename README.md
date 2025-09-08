@@ -7,8 +7,6 @@ The analysis was carried out in **Python (Jupyter Notebook)** using **Pandas** a
 
 A **detailed project report** (`Ecommerce_Sales_Project_Report.pdf`) is included in this repository for formal submission.  
 
----
-
 ## Files in Repository  
 - `Ecommerece_sales_project.ipynb` → Jupyter Notebook with code & visualizations  
 - `Sample - Superstore.csv` → Dataset used  
